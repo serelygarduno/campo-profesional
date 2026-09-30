@@ -4,7 +4,7 @@
  La Inteligencia de Negocios y el Big Data son importantes porque transforman grandes cantidades de datos complejos en información útil para tomar decisiones rápidas y acertadas.
 
 ## Apache Spark 
- ![ApacheSpark_IMG](https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png&w=200)
+ ![ApacheSpark_IMG](https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png&w=400)
 
   
  - **Uso principal:** Motor de procesamiento distribuido para grandes volúmenes de datos, tanto en modo *batch* como en tiempo real. También se usa para machine learning a gran escala. 
